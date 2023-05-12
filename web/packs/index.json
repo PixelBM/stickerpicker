@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "wife.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
