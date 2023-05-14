@@ -1,7 +1,8 @@
 {
   "packs": [
     "wife.json",
-    "GondolaMeme.json"
+    "GondolaMeme.json",
+    "Gibeherz.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
